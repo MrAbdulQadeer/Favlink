@@ -1,3 +1,5 @@
+
+/* Overall layout */
 body {
   margin: 0;
   padding: 18px;
@@ -15,6 +17,14 @@ input {
   margin-bottom: 8px;
 }
 
+.username,
+.userurl h3 {
+  color: yellow;
+  margin-bottom: 0px;
+  text-decoration: underline;
+}
+
+/* Elements layout and design */
 button {
   border-radius: 30px;
   color: white;
@@ -46,11 +56,4 @@ li {
 
 a {
   color: white;
-}
-
-.username,
-.userurl h3 {
-  color: yellow;
-  margin-bottom: 0px;
-  text-decoration: underline;
 }
