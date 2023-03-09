@@ -21,7 +21,7 @@ The JavaScript file (index.js) handles the input and button events. It adds the 
 2. Click the "Save Username" or "Save Tab Url" button to add the entered value to the corresponding list.
 3. To delete all saved data, click the "DELETE ALL" button.
 
-#### Video Demo:  <https://www.loom.com/share/4f6dcac83a3f40cc970eccab0f9f9c6a>
+#### Video Demo:  <https://youtu.be/MXYndLlCyXY>
 
 Below is the description of all the files and their related components:
 
